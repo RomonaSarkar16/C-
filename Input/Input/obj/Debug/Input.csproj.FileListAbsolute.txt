@@ -1,0 +1,7 @@
+C:\Users\Romona Sarker\source\repos\Input\Input\bin\Debug\Input.exe.config
+C:\Users\Romona Sarker\source\repos\Input\Input\bin\Debug\Input.exe
+C:\Users\Romona Sarker\source\repos\Input\Input\bin\Debug\Input.pdb
+C:\Users\Romona Sarker\source\repos\Input\Input\obj\Debug\Input.csproj.AssemblyReference.cache
+C:\Users\Romona Sarker\source\repos\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\Romona Sarker\source\repos\Input\Input\obj\Debug\Input.exe
+C:\Users\Romona Sarker\source\repos\Input\Input\obj\Debug\Input.pdb
