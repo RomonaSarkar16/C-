@@ -1,0 +1,7 @@
+C:\Users\Romona Sarker\source\repos\TpyeCasting\TpyeCasting\bin\Debug\TpyeCasting.exe.config
+C:\Users\Romona Sarker\source\repos\TpyeCasting\TpyeCasting\bin\Debug\TpyeCasting.exe
+C:\Users\Romona Sarker\source\repos\TpyeCasting\TpyeCasting\bin\Debug\TpyeCasting.pdb
+C:\Users\Romona Sarker\source\repos\TpyeCasting\TpyeCasting\obj\Debug\TpyeCasting.csproj.AssemblyReference.cache
+C:\Users\Romona Sarker\source\repos\TpyeCasting\TpyeCasting\obj\Debug\TpyeCasting.csproj.CoreCompileInputs.cache
+C:\Users\Romona Sarker\source\repos\TpyeCasting\TpyeCasting\obj\Debug\TpyeCasting.exe
+C:\Users\Romona Sarker\source\repos\TpyeCasting\TpyeCasting\obj\Debug\TpyeCasting.pdb
