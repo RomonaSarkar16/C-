@@ -1,0 +1,14 @@
+C:\Users\Romona Sarker\source\repos\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.exe
+C:\Users\Romona Sarker\source\repos\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.deps.json
+C:\Users\Romona Sarker\source\repos\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.runtimeconfig.json
+C:\Users\Romona Sarker\source\repos\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.runtimeconfig.dev.json
+C:\Users\Romona Sarker\source\repos\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.dll
+C:\Users\Romona Sarker\source\repos\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.pdb
+C:\Users\Romona Sarker\source\repos\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.csproj.AssemblyReference.cache
+C:\Users\Romona Sarker\source\repos\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romona Sarker\source\repos\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.AssemblyInfoInputs.cache
+C:\Users\Romona Sarker\source\repos\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.AssemblyInfo.cs
+C:\Users\Romona Sarker\source\repos\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.csproj.CoreCompileInputs.cache
+C:\Users\Romona Sarker\source\repos\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.dll
+C:\Users\Romona Sarker\source\repos\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.pdb
+C:\Users\Romona Sarker\source\repos\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.genruntimeconfig.cache
