@@ -1,0 +1,13 @@
+E:\C#\Constant\Constant\bin\Debug\netcoreapp3.1\Constant.exe
+E:\C#\Constant\Constant\bin\Debug\netcoreapp3.1\Constant.deps.json
+E:\C#\Constant\Constant\bin\Debug\netcoreapp3.1\Constant.runtimeconfig.json
+E:\C#\Constant\Constant\bin\Debug\netcoreapp3.1\Constant.runtimeconfig.dev.json
+E:\C#\Constant\Constant\bin\Debug\netcoreapp3.1\Constant.dll
+E:\C#\Constant\Constant\bin\Debug\netcoreapp3.1\Constant.pdb
+E:\C#\Constant\Constant\obj\Debug\netcoreapp3.1\Constant.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Constant\Constant\obj\Debug\netcoreapp3.1\Constant.AssemblyInfoInputs.cache
+E:\C#\Constant\Constant\obj\Debug\netcoreapp3.1\Constant.AssemblyInfo.cs
+E:\C#\Constant\Constant\obj\Debug\netcoreapp3.1\Constant.csproj.CoreCompileInputs.cache
+E:\C#\Constant\Constant\obj\Debug\netcoreapp3.1\Constant.dll
+E:\C#\Constant\Constant\obj\Debug\netcoreapp3.1\Constant.pdb
+E:\C#\Constant\Constant\obj\Debug\netcoreapp3.1\Constant.genruntimeconfig.cache
