@@ -1,0 +1,14 @@
+E:\C#\Lab Task 2\Lab Task 2\bin\Debug\netcoreapp3.1\Lab Task 2.exe
+E:\C#\Lab Task 2\Lab Task 2\bin\Debug\netcoreapp3.1\Lab Task 2.deps.json
+E:\C#\Lab Task 2\Lab Task 2\bin\Debug\netcoreapp3.1\Lab Task 2.runtimeconfig.json
+E:\C#\Lab Task 2\Lab Task 2\bin\Debug\netcoreapp3.1\Lab Task 2.runtimeconfig.dev.json
+E:\C#\Lab Task 2\Lab Task 2\bin\Debug\netcoreapp3.1\Lab Task 2.dll
+E:\C#\Lab Task 2\Lab Task 2\bin\Debug\netcoreapp3.1\Lab Task 2.pdb
+E:\C#\Lab Task 2\Lab Task 2\obj\Debug\netcoreapp3.1\Lab Task 2.csproj.AssemblyReference.cache
+E:\C#\Lab Task 2\Lab Task 2\obj\Debug\netcoreapp3.1\Lab Task 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Lab Task 2\Lab Task 2\obj\Debug\netcoreapp3.1\Lab Task 2.AssemblyInfoInputs.cache
+E:\C#\Lab Task 2\Lab Task 2\obj\Debug\netcoreapp3.1\Lab Task 2.AssemblyInfo.cs
+E:\C#\Lab Task 2\Lab Task 2\obj\Debug\netcoreapp3.1\Lab Task 2.csproj.CoreCompileInputs.cache
+E:\C#\Lab Task 2\Lab Task 2\obj\Debug\netcoreapp3.1\Lab Task 2.dll
+E:\C#\Lab Task 2\Lab Task 2\obj\Debug\netcoreapp3.1\Lab Task 2.pdb
+E:\C#\Lab Task 2\Lab Task 2\obj\Debug\netcoreapp3.1\Lab Task 2.genruntimeconfig.cache
