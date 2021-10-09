@@ -1,0 +1,4 @@
+E:\C#\Nested IF\Nested IF\obj\Debug\netcoreapp3.1\Nested IF.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Nested IF\Nested IF\obj\Debug\netcoreapp3.1\Nested IF.AssemblyInfoInputs.cache
+E:\C#\Nested IF\Nested IF\obj\Debug\netcoreapp3.1\Nested IF.AssemblyInfo.cs
+E:\C#\Nested IF\Nested IF\obj\Debug\netcoreapp3.1\Nested IF.csproj.CoreCompileInputs.cache
