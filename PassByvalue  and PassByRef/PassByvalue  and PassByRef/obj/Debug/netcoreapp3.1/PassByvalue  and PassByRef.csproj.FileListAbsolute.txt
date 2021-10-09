@@ -1,0 +1,14 @@
+E:\C#\PassByvalue  and PassByRef\PassByvalue  and PassByRef\bin\Debug\netcoreapp3.1\PassByvalue  and PassByRef.exe
+E:\C#\PassByvalue  and PassByRef\PassByvalue  and PassByRef\bin\Debug\netcoreapp3.1\PassByvalue  and PassByRef.deps.json
+E:\C#\PassByvalue  and PassByRef\PassByvalue  and PassByRef\bin\Debug\netcoreapp3.1\PassByvalue  and PassByRef.runtimeconfig.json
+E:\C#\PassByvalue  and PassByRef\PassByvalue  and PassByRef\bin\Debug\netcoreapp3.1\PassByvalue  and PassByRef.runtimeconfig.dev.json
+E:\C#\PassByvalue  and PassByRef\PassByvalue  and PassByRef\bin\Debug\netcoreapp3.1\PassByvalue  and PassByRef.dll
+E:\C#\PassByvalue  and PassByRef\PassByvalue  and PassByRef\bin\Debug\netcoreapp3.1\PassByvalue  and PassByRef.pdb
+E:\C#\PassByvalue  and PassByRef\PassByvalue  and PassByRef\obj\Debug\netcoreapp3.1\PassByvalue  and PassByRef.csproj.AssemblyReference.cache
+E:\C#\PassByvalue  and PassByRef\PassByvalue  and PassByRef\obj\Debug\netcoreapp3.1\PassByvalue  and PassByRef.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\PassByvalue  and PassByRef\PassByvalue  and PassByRef\obj\Debug\netcoreapp3.1\PassByvalue  and PassByRef.AssemblyInfoInputs.cache
+E:\C#\PassByvalue  and PassByRef\PassByvalue  and PassByRef\obj\Debug\netcoreapp3.1\PassByvalue  and PassByRef.AssemblyInfo.cs
+E:\C#\PassByvalue  and PassByRef\PassByvalue  and PassByRef\obj\Debug\netcoreapp3.1\PassByvalue  and PassByRef.csproj.CoreCompileInputs.cache
+E:\C#\PassByvalue  and PassByRef\PassByvalue  and PassByRef\obj\Debug\netcoreapp3.1\PassByvalue  and PassByRef.dll
+E:\C#\PassByvalue  and PassByRef\PassByvalue  and PassByRef\obj\Debug\netcoreapp3.1\PassByvalue  and PassByRef.pdb
+E:\C#\PassByvalue  and PassByRef\PassByvalue  and PassByRef\obj\Debug\netcoreapp3.1\PassByvalue  and PassByRef.genruntimeconfig.cache
