@@ -1,0 +1,14 @@
+E:\C#\Lab Task 3 passing-out-params-named\Lab Task 3 passing-out-params-named\bin\Debug\netcoreapp3.1\Lab Task 3 passing-out-params-named.exe
+E:\C#\Lab Task 3 passing-out-params-named\Lab Task 3 passing-out-params-named\bin\Debug\netcoreapp3.1\Lab Task 3 passing-out-params-named.deps.json
+E:\C#\Lab Task 3 passing-out-params-named\Lab Task 3 passing-out-params-named\bin\Debug\netcoreapp3.1\Lab Task 3 passing-out-params-named.runtimeconfig.json
+E:\C#\Lab Task 3 passing-out-params-named\Lab Task 3 passing-out-params-named\bin\Debug\netcoreapp3.1\Lab Task 3 passing-out-params-named.runtimeconfig.dev.json
+E:\C#\Lab Task 3 passing-out-params-named\Lab Task 3 passing-out-params-named\bin\Debug\netcoreapp3.1\Lab Task 3 passing-out-params-named.dll
+E:\C#\Lab Task 3 passing-out-params-named\Lab Task 3 passing-out-params-named\bin\Debug\netcoreapp3.1\Lab Task 3 passing-out-params-named.pdb
+E:\C#\Lab Task 3 passing-out-params-named\Lab Task 3 passing-out-params-named\obj\Debug\netcoreapp3.1\Lab Task 3 passing-out-params-named.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Lab Task 3 passing-out-params-named\Lab Task 3 passing-out-params-named\obj\Debug\netcoreapp3.1\Lab Task 3 passing-out-params-named.AssemblyInfoInputs.cache
+E:\C#\Lab Task 3 passing-out-params-named\Lab Task 3 passing-out-params-named\obj\Debug\netcoreapp3.1\Lab Task 3 passing-out-params-named.AssemblyInfo.cs
+E:\C#\Lab Task 3 passing-out-params-named\Lab Task 3 passing-out-params-named\obj\Debug\netcoreapp3.1\Lab Task 3 passing-out-params-named.csproj.CoreCompileInputs.cache
+E:\C#\Lab Task 3 passing-out-params-named\Lab Task 3 passing-out-params-named\obj\Debug\netcoreapp3.1\Lab Task 3 passing-out-params-named.dll
+E:\C#\Lab Task 3 passing-out-params-named\Lab Task 3 passing-out-params-named\obj\Debug\netcoreapp3.1\Lab Task 3 passing-out-params-named.pdb
+E:\C#\Lab Task 3 passing-out-params-named\Lab Task 3 passing-out-params-named\obj\Debug\netcoreapp3.1\Lab Task 3 passing-out-params-named.genruntimeconfig.cache
+E:\C#\Lab Task 3 passing-out-params-named\Lab Task 3 passing-out-params-named\obj\Debug\netcoreapp3.1\Lab Task 3 passing-out-params-named.csproj.AssemblyReference.cache
