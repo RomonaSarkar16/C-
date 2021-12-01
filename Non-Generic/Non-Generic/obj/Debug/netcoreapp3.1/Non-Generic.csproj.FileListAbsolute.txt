@@ -1,0 +1,14 @@
+E:\C#\Non-Generic\Non-Generic\bin\Debug\netcoreapp3.1\Non-Generic.exe
+E:\C#\Non-Generic\Non-Generic\bin\Debug\netcoreapp3.1\Non-Generic.deps.json
+E:\C#\Non-Generic\Non-Generic\bin\Debug\netcoreapp3.1\Non-Generic.runtimeconfig.json
+E:\C#\Non-Generic\Non-Generic\bin\Debug\netcoreapp3.1\Non-Generic.runtimeconfig.dev.json
+E:\C#\Non-Generic\Non-Generic\bin\Debug\netcoreapp3.1\Non-Generic.dll
+E:\C#\Non-Generic\Non-Generic\bin\Debug\netcoreapp3.1\Non-Generic.pdb
+E:\C#\Non-Generic\Non-Generic\obj\Debug\netcoreapp3.1\Non-Generic.csproj.AssemblyReference.cache
+E:\C#\Non-Generic\Non-Generic\obj\Debug\netcoreapp3.1\Non-Generic.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Non-Generic\Non-Generic\obj\Debug\netcoreapp3.1\Non-Generic.AssemblyInfoInputs.cache
+E:\C#\Non-Generic\Non-Generic\obj\Debug\netcoreapp3.1\Non-Generic.AssemblyInfo.cs
+E:\C#\Non-Generic\Non-Generic\obj\Debug\netcoreapp3.1\Non-Generic.csproj.CoreCompileInputs.cache
+E:\C#\Non-Generic\Non-Generic\obj\Debug\netcoreapp3.1\Non-Generic.dll
+E:\C#\Non-Generic\Non-Generic\obj\Debug\netcoreapp3.1\Non-Generic.pdb
+E:\C#\Non-Generic\Non-Generic\obj\Debug\netcoreapp3.1\Non-Generic.genruntimeconfig.cache
